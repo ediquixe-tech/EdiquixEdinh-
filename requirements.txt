@@ -1,0 +1,7 @@
+kivy==2.1.0
+cryptography==41.0.7
+paramiko==3.4.0
+requests==2.31.0
+pycryptodome==3.19.0
+dnspython==2.4.2
+Pillow==10.0.0
